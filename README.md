@@ -8,11 +8,11 @@ I'm a data analyst with a background in Statistics, holding a B.Sc. from Aliko D
 - Power BI
 - Python
 - R
+- Tableau 
 
 ## My Projects
 
-
-- [ Bike Sales Performance Dashboard] (....)
+- [ Bike Sales Performance Dashboard] (https://github.com/saleemabdullahi65-alt/Bike-Sales-Performance-Dashboard-/blob/main/README.md)
 - [HR Promotion Dashboard] (....)
 - [Vehicle Sales Dashboard] ( https://github.com/saleemabdullahi65-alt/Vehicle-Sales-Dashboard-)
   
