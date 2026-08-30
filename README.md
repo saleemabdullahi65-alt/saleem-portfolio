@@ -11,7 +11,7 @@ I'm a data analyst with a background in Statistics, holding a B.Sc. from Aliko D
 
 ## My Projects
 
-- [Nigeria CPI & Food Inflation Dashboard] (....)
+
 - [ Bike Sales Performance Dashboard] (....)
 - [HR Promotion Dashboard] (....)
 - [Vehicle Sales Dashboard] ( https://github.com/saleemabdullahi65-alt/Vehicle-Sales-Dashboard-)
